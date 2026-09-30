@@ -19,3 +19,6 @@ Maxima is a hotel in Kamianets-Podilskyi at prospekt Hrushevskoho, 41B, position
 
 ## Notes
 The page explicitly states that room counts, categories, sizes, bed configuration, and pricing are not confirmed and should be checked with reception before booking. It also notes that no guest rating is published without a verified source.
+
+## Forms
+Connected to HotelOS (`kp-maxima`): `stay-request` only (transfer is a phone-only paid extra, no service form). Script and contract: `../shared/FORMS.md`.
